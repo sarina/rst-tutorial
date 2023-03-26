@@ -3,7 +3,7 @@ Exercise 1
 
 Your task is to match this output:
 
-.. image:: Match\ This\ Output.png
+.. image:: Match This Output.png
 
 
 Do so by clicking on `Exercise1.rst <https://github.com/sarina/rst-tutorial/blob/main/Exercise%201/Exercise1.rst>`_,

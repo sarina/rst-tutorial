@@ -10,3 +10,6 @@ Do so by clicking on `Exercise1.rst <https://github.com/sarina/rst-tutorial/blob
 clicking the pencil icon to edit, then editing the text with your own RST.
 Use the Preview tab to check out how you're doing; you can click back to
 "Edit File" as many times as you want to adjust your text.
+
+When you're done, check out `answer.rst <https://github.com/sarina/rst-tutorial/blob/main/Exercise%201/answer.rst>`_
+to see how we solved this problem.

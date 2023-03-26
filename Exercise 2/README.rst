@@ -12,4 +12,5 @@ Use the Preview tab to check out how you're doing; you can click back to
 "Edit File" as many times as you want to adjust your text.
 
 When you're done, check out `answer.rst <https://github.com/sarina/rst-tutorial/blob/main/Exercise%202/answer.rst>`_
-to see how we solved this problem.
+to see how we solved this problem. Click the ``Raw`` button to see how
+we wrote the RST.

@@ -1,5 +1,4 @@
-Look at the file titled titled "Match This Output.png" in this directory.
+NEW TUTORIAL
+############
 
-Use this space to create some RST that matches the screenshot.
-
-First... delete all this text!
+This is my *new article*

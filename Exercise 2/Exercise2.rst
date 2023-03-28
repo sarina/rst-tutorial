@@ -1,5 +1,12 @@
-Look at the file titled titled "Match This Output.png" in this directory.
+BASICS OF COOKING-MAMA
+######################
 
-Use this space to create some RST that matches the screenshot.
+Boiling WATER
+=============
 
-First... delete all this text!
+#. Pour Water in Pot
+#. Put it on stove.
+#. Turn on or light the stove.
+#. Keep the heat on max... until bubbles form in the water.
+
+YOU ARE VICTORIUS!!

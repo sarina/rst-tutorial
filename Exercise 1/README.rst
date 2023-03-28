@@ -1,7 +1,7 @@
 Exercise 1
 ##########
 
-Your task is to match this output:
+Your task is to match this output (note! the horizontal line is rendered as part of the header, you do not need to draw it):
 
 .. image:: Match_This_Output.png
 

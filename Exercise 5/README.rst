@@ -1,7 +1,7 @@
 Exercise 5
 ##########
 
-Your task is to match this output:
+Your task is to match this output (note! the horizontal line is drawn by GitHub as part of the header. You do not need to explicitly draw it):
 
 .. image:: Match_This_Output.png
 

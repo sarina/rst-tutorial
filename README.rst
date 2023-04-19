@@ -2,6 +2,11 @@ rst-tutorial
 ############
 
 A collection of RST exercises, meant to be completed in the GitHub UI.
+Built specifically for contributors to the Open edX documentation project.
+
+See this `One-Page Guide to RST <https://docs.openedx.org/en/latest/_downloads/e947696e479a11024076d3ccf5705355/RST_quick_reference.pdf>`_
+(PDF) and/or this `quickreference to RST <https://docs.openedx.org/en/latest/documentors/references/quick_reference_rst.html>`_
+- they may help out as you go through these exercises.
 
 Instructions
 ************
